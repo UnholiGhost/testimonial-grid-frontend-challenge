@@ -1,4 +1,6 @@
-# Frontend Mentor - Testimonials grid section
+# This is my first Front-End code challenge I completed in the first two weeks of learing Web Development. 
+
+## Frontend Mentor - Testimonials grid section
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
